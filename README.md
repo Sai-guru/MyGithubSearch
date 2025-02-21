@@ -3,6 +3,7 @@
 =====================
 
 This project takes a GitHub username as input and displays the user's details.
+You can view the website here : https://sai-guru.github.io/MyGithubSearch/
 
 
 ## Features
